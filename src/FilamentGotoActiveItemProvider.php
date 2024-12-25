@@ -1,11 +1,7 @@
 <?php
 
-namespace HoceineEl\Fab;
+namespace HoceineEl\GotoActiveItem;
 
-use Filament\Support\Assets\Css;
-use Filament\Support\Facades\FilamentAsset;
-use HoceineEl\Fab\Livewire\FloatingActionButton;
-use Livewire\Livewire;
 use Spatie\LaravelPackageTools\Commands\InstallCommand;
 use Spatie\LaravelPackageTools\Package;
 use Spatie\LaravelPackageTools\PackageServiceProvider;

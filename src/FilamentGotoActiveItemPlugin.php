@@ -1,11 +1,9 @@
 <?php
 
-namespace HoceineEl\Fab;
+namespace HoceineEl\GotoActiveItem;
 
-use Filament\Panel;
 use Filament\Contracts\Plugin;
 use Filament\Support\Facades\FilamentView;
-use Filament\View\PanelsRenderHook;
 use Illuminate\Support\HtmlString;
 
 class FilamentGotoActiveItemPlugin implements Plugin
